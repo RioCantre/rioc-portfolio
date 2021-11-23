@@ -1,9 +1,9 @@
 
 @font-face {
-        font-family: 'Millanova';
-        font-style: normal;
-        font-weight: normal;
-        src: local('Millanova'), url('Millanova.ttf') format('ttf');
+    font-family: 'Millanova';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Millanova'), url('Millanova.ttf') format('ttf');
 }
 
 * {
