@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-// import Button from './components/Button/Button';
-// import Footer from './components/Footer/Footer';
+import Button from './components/Button/Button';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -18,8 +18,8 @@ function App() {
           the current technologies, especially React. Venturing and open to
           opportunities where I could make use of my skills as a developer.
         </p>
-        {/* <Button /> */}
-        {/* <Footer /> */}
+        <Button />
+        <Footer />
       </header>
     </div>
   );
