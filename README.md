@@ -1,13 +1,24 @@
-# Front-end Web Developer Portfolio
-### by Rio Cantre 🌱
 
-From humble beginnings, I learn to code from scratch. The online courses helped me develop my understanding of how it works and implement the syntax while doing projects. Throughout the learning process, it was intimidating at first but eventually caught up with the learning structure. I created several projects which I think were the most exciting and interactive challenges.
+<div align="center">
+    <h1>
+        Front-end Web Developer Portfolio
+    </h1>
+    <h3>
+        by Rio Cantre 🌱
+    </h3>
+</div>
 
+<br>
+<p align="center">
+ From humble beginnings, I learn to code from scratch. The online courses helped me develop my understanding of how it works and implement the syntax while doing projects. Throughout the learning process, it was intimidating at first but eventually caught up with the learning structure. I created several projects which I think were the most exciting and interactive challenges.
+</p>
 <hr>
+<br>
+<div align="center">
+  <h1> ✨ Projects </h1>
+</div>
 
-## ✨ Projects 
-
-- [Adventuristic](https://github.com/RioCantre/project-capstone-travel-planner-app/blob/master/README.md)
+  - [Adventuristic](https://github.com/RioCantre/project-capstone-travel-planner-app/blob/master/README.md)
     <br>
     This travel planner app is designed for individuals who want to travel. It lets the user search for the destination, select the dates, save, remove, and modify the details. This project is integrated with 3 APIs, such as Geonames API, Weatherbit, and Pixabay, and built with Node, Express, HTML & CSS, JavaScript,  Webpack, Sass, Plugins, and Loaders, Service Workers, and Jest.
 
@@ -25,8 +36,14 @@ From humble beginnings, I learn to code from scratch. The online courses helped 
 
 
 <hr>
+<br>
+<div align="center">
+    <h2>
+    <a href="https://riocantre.netlify.app/"> ✨ Portfolio Preview 
+    </a>
+    </h2>
+</div>
 
-### ✨ [Portfolio Preview](https://riocantre.netlify.app/) 
 
 
 

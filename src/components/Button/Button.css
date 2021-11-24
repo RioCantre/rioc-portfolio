@@ -1,16 +1,17 @@
+
 .btn {
-    padding: 1rem;
-    width: 10rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    margin-top: 3rem;
-    cursor: pointer;
-    border: none;
-    transition: all 0.3s;
-    background: hsla(206, 93%, 12%, 1);
-    text-decoration: none;
+	padding: 1rem;
+	width: 10rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	margin-top: 3rem;
+	cursor: pointer;
+	border: none;
+	transition: all 0.3s;
+	background: hsla(206, 93%, 12%, 1);
+	text-decoration: none;
   
 }
 
