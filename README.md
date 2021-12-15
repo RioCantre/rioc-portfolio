@@ -15,7 +15,7 @@
 <hr>
 <br>
 <div align="center">
-  <h1> ✨ Projects </h1>
+  <h1> ✨ Projects ✨ </h1>
 </div>
 
   - [Adventuristic](https://github.com/RioCantre/project-capstone-travel-planner-app/blob/master/README.md)
@@ -39,7 +39,7 @@
 <br>
 <div align="center">
     <h2>
-    <a href="https://riocantre.netlify.app/"> ✨ Portfolio Preview 
+    <a href="https://riocantre.netlify.app/"> ✨ Portfolio Preview ✨
     </a>
     </h2>
 </div>

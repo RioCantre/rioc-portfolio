@@ -4,7 +4,7 @@ import './Footer.css';
 
 function Footer() {
     return (
-        <div>
+        <footer>
             <ul>
                 <li>
                     <a
@@ -34,7 +34,7 @@ function Footer() {
                     </a>
                 </li>
             </ul>
-        </div>
+        </footer>
     );
 }
 
