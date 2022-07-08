@@ -1,50 +1,70 @@
+# Getting Started with Create React App
 
-<div align="center">
-    <h1>
-        Front-end Web Developer Portfolio
-    </h1>
-    <h3>
-        by Rio Cantre 🌱
-    </h3>
-</div>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<br>
-<p align="center">
- From humble beginnings, I learn to code from scratch. The online courses helped me develop my understanding of how it works and implement the syntax while doing projects. Throughout the learning process, it was intimidating at first but eventually caught up with the learning structure. I created several projects which I think were the most exciting and interactive challenges.
-</p>
-<hr>
-<br>
-<div align="center">
-  <h1> ✨ Projects ✨ </h1>
-</div>
+## Available Scripts
 
-  - [Adventuristic](https://github.com/RioCantre/project-capstone-travel-planner-app/blob/master/README.md)
-    <br>
-    This travel planner app is designed for individuals who want to travel. It lets the user search for the destination, select the dates, save, remove, and modify the details. This project is integrated with 3 APIs, such as Geonames API, Weatherbit, and Pixabay, and built with Node, Express, HTML & CSS, JavaScript,  Webpack, Sass, Plugins, and Loaders, Service Workers, and Jest.
+In the project directory, you can run:
 
-- [RoboFriends](https://github.com/RioCantre/robots/blob/master/README.md)
-    <br>
-    This project is built with React. Its primary purpose is to let the user experience the use of search input which displays the cards of the selected Robot. It also uses Redux and Tachyons for the IU design.
+### `npm start`
 
-- [Faceventure (Face Recognition Brain)](https://github.com/RioCantre/face-recognition-brain/blob/master/README.md)
-    <br>
-    With the everyday use of face recognition, this project is designed to evaluate faces in the photo using Clarifai API. The web app uses a database (SQL) that lets the user sign in and register. It is mainly built with React, HTML5, CSS3.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- [Tip Calculator](https://github.com/RioCantre/tip-calculator-app/blob/master/README.md)
-    <br>
-    It is a project challenge with a given design, and as a developer, I need to code it as close as the design. To build a specific calculator for tips and count the discounts with the given amount and number of people and used HTML, CSS, SaSS, and JavasScript through the whole process.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-<hr>
-<br>
-<div align="center">
-    <h2>
-    <a href="https://riocantre.netlify.app/"> ✨ Portfolio Preview ✨
-    </a>
-    </h2>
-</div>
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
